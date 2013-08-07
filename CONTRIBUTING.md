@@ -108,7 +108,7 @@ These labels describe what development specialities are involved such as: Postgr
 - Light orange `#fef2c0`: workflow labels for issue team members (awaiting feedback, awaiting confirmation of fix)
 - Bright orange `#eb6420`: workflow labels for core team members (attached PR, awaiting developer action/feedback)
 - Light blue `#82C5FF`: functional labels
-- Green labels `#009800`: issues that can generally be ignored. For example, issues given the following labels normally can be closed immediately (we do have some old ones open that Yves will handle):
+- Green labels `#009800`: issues that can generally be ignored. For example, issues given the following labels normally can be closed immediately:
   - Feature request (see copy & paste response: [Feature requests](#feature-requests))
   - Support (see copy & paste response: [Support requests and configuration questions](#support-requests-and-configuration-questions)
 
@@ -138,7 +138,7 @@ These labels describe what development specialities are involved such as: Postgr
 - Close fixed issues (via commit messages or manually)
 - Codes [new features](http://feedback.gitlab.com/forums/176466-general/filters/top)!
 - Response guidelines
-- Be as kind as possible to people trying to contribute. Be aware that people can be a non-native or a native English speaker, they might not understand thing or they might be very sensitive to how your word things. Use emoji to express your feelings (hearth, star, smile, etc.). Some good tips about giving feedback to pull requests is in the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review).
+- Be kind to people trying to contribute. Be aware that people can be a non-native or a native English speaker, they might not understand thing or they might be very sensitive to how your word things. Use emoji to express your feelings (hearth, star, smile, etc.). Some good tips about giving feedback to pull requests is in the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review).
 
 ### Copy & paste responses
 
@@ -168,7 +168,7 @@ Thanks for the issue report. This issue has already been fixed in newer versions
 
 #### Improperly formatted pull request
 
-Thanks for your interest in improving the GitLab codebase! Please resubmit your pull request following the \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#pull-request-guidelines).
+Thanks for your interest in improving the GitLab codebase! Please update your pull request according to the \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#pull-request-guidelines).
 
 #### Inactivity close of an issue
 
